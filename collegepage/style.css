@@ -17,11 +17,11 @@
 }      
 
 a {
-    background-color: skyblue;
-    color: slategray;
+    background-color: rgb(175, 220, 238);
     text-decoration: none;
     border-radius: 2px;
     padding: 5px;
+    margin: 5px;
     display: inline-block;
     vertical-align: center;    
 
@@ -39,4 +39,14 @@ a {
 #home-page-contents {
     background-color: whitesmoke;
 
+}
+
+
+#container {
+    margin-top: 60px;
+}
+
+#no-decoration {
+    text-decoration: none;
+    background-color: none;
 }
